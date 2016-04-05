@@ -1,5 +1,6 @@
 # This script exists purely to convert input text to a format for skype
 # which looks like the kind of threat a certain character might give
+# Output is observable in your web browser at 127.0.0.1
 
 from flask import Flask
 
